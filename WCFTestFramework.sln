@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFTestFramework", "WCFTestFramework\WCFTestFramework.csproj", "{A73C0694-C8E4-4EA8-9FE2-6A01C0CF75AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EB5FE5B-A0EC-4E04-BA18-0DAD232EE5A8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73C0694-C8E4-4EA8-9FE2-6A01C0CF75AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73C0694-C8E4-4EA8-9FE2-6A01C0CF75AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73C0694-C8E4-4EA8-9FE2-6A01C0CF75AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73C0694-C8E4-4EA8-9FE2-6A01C0CF75AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68719613-4F3B-42DF-B110-3F4C5058DA0D}
+	EndGlobalSection
+EndGlobal
